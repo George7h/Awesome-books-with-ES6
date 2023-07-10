@@ -142,9 +142,7 @@ If you like this project please give it a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my codereviewers for reviewing my code in this project development.
-
-I would like to thank Cindy Shin <a href="https://www.behance.net/adagio07">link</a> for the template inspiration.
+I would like to thank my code reviewers for reviewing my code in this project development.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
