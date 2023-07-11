@@ -53,12 +53,30 @@ header nav ul li a::before {
   content: '|  ';
 }
 
+.time {
+  display: flex;
+  position: fixed;
+  top: 7%;
+  right: 20%;
+}
+
 body {
   height: 100vh;
+}
+
+footer {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+  border: solid black 2px;
+  bottom: 10px;
+  position: absolute;
+  margin: 10px;
+  padding: 2px 50px;
+  width: 95%;
+  background: rgba(24, 20, 20, 0.987);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
+  border-radius: 5px 5px 5px 5px;
+  color: white;
 }
 
 .collection-container {
